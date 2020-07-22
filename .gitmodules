@@ -1,0 +1,4 @@
+[submodule "vendor/github.com/openconfig/gnoi"]
+	path = vendor/github.com/openconfig/gnoi
+	url = https://github.com/openconfig/gnoi.git
+	branch = master
